@@ -12,12 +12,12 @@ Quero dedicar esse projeto ao Uilque Messias e Guilherme Ferreira que me ajudara
 
 <p>configurações foram feitas nas sequintes pastas</p>
 
-- ** config/app.php  **
-- ** config/database.php  **
-- ** crianção de um arquivo Procfile  **
+-  config/app.php 
+-  config/database.php  
+-  crianção de um arquivo Procfile  
 
 
 ## Comando executados no Heroku para criação do banco de dados
 
-- ** heroku run "php artisan migrate"  **
-<p>Em seguida é necessário confirma digitando <h3>yes</h3></p>
+-  heroku run "php artisan migrate"  
+<p>Em seguida é necessário confirma digitando "yes"</p>

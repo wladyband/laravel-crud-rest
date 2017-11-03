@@ -2,7 +2,7 @@
 ## O projeto se encontra no servidor Heroku
 
 
-Quero dedicar esse projeto ao Uilque Messias e Guilherme Ferreira que me ajudaram a aprender a construir esse projeto, eles sendo sido meus orientadores. 
+Quero dedicar esse projeto ao Uilque Messias e Guilherme Ferreira, eles tem sido meus orientadores. 
 
 
 - [Projeto Rodando no servidor Heroku](https://laravel-crud-wb.herokuapp.com/imoveis).

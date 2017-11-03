@@ -20,4 +20,4 @@ Quero dedicar esse projeto ao Uilque Messias e Guilherme Ferreira que me ajudara
 ## Comando executados no Heroku para criação do banco de dados
 
 - ** heroku run "php artisan migrate"  **
-<p>Em seguida é necessário confirma digitando <h1>yes</h1></p>
+<p>Em seguida é necessário confirma digitando <h3>yes</h3></p>
